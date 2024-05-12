@@ -1,5 +1,5 @@
 # Chatbot Audio
-## Chatbot que responde com áudios, projeto desenvolvido na Imersão da Alura + Google com a API Gemini
+## Chatbot que responde com áudios, projeto desenvolvido na Imersão da Alura com o Google e a API Gemini
 
 ## Arquivo: audio.ipynb
 - Instalando e configurando a chave
